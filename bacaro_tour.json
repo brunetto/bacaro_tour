@@ -122,9 +122,32 @@
           45.4359294
         ]
       }
+    }, 
+    {
+      "type": "Feature",
+      "properties": {"Name": "Campo Erberia", "Category": ["Meeting point"]},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3355403,
+          45.43879
+        ]
+      }
+    }, 
+    {
+      "type": "Feature",
+      "properties": {"Name": "Gelateria Nico", "Category": ["Ice cream"]},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.32615,
+          45.4296026
+        ]
+      }
     }
 
 
   ]
 }
+
 
