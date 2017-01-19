@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+  
+	{
+      "type": "Feature",
+      "properties": {"Bacaro": "Do Colonne"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3306988,
+          45.4431607
+        ]
+      }
+    }, 
+    {
+      "type": "Feature",
+      "properties": {"Bacaro": "Do Colonne"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.332115,
+          45.4431862
+        ]
+      }
+    }
+
+
+  ]
+}
