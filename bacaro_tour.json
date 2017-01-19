@@ -144,10 +144,31 @@
           45.4296026
         ]
       }
+    }, 
+    {
+      "type": "Feature",
+      "properties": {"Name": "Cantina Vecia Carbonera", "Category": ["Bacaro"]},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3315519,
+          45.4432941
+        ]
+      }
+    }, 
+    {
+      "type": "Feature",
+      "properties": {"Name": "La cantina", "Category": ["Bacaro"]},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3331358,
+          45.4416321
+        ]
+      }
     }
 
 
   ]
 }
-
 
