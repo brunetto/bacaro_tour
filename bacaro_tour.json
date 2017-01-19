@@ -8,19 +8,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.3306988,
-          45.4431607
+          12.3286528,
+          45.4438157
         ]
       }
     }, 
     {
       "type": "Feature",
-      "properties": {"Bacaro": "Do Colonne"},
+      "properties": {"Bacaro": "Al Timon"},
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.332115,
-          45.4431862
+          12.328418,
+          45.4455588
         ]
       }
     }
