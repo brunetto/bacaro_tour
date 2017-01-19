@@ -111,6 +111,17 @@
           45.4300891
         ]
       }
+    }, 
+    {
+      "type": "Feature",
+      "properties": {"Name": "Tonoloo", "Category": ["Patisserie"]},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3251391,
+          45.4359294
+        ]
+      }
     }
 
 
