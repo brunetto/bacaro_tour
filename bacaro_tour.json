@@ -4,7 +4,7 @@
   
 	{
       "type": "Feature",
-      "properties": {"Bacaro": "Do Colonne"},
+      "properties": {"Name": "Do Colonne", "Category": ["Bacaro"]},
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -15,7 +15,7 @@
     }, 
     {
       "type": "Feature",
-      "properties": {"Bacaro": "Al Timon"},
+      "properties": {"Name": "Al Timon", "Category": ["Bacaro"]},
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -23,8 +23,97 @@
           45.4455588
         ]
       }
+    }, 
+    {
+      "type": "Feature",
+      "properties": {"Name": "Birreria Zanon", "Category": ["Bacaro"]},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.328666,
+          45.445485
+        ]
+      }
+    }, 
+    {
+      "type": "Feature",
+      "properties": {"Name": "Il Paradiso Perduto", "Category": ["Bacaro", "Restaurant"]},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3320268,
+          45.4445893
+        ]
+      }
+    }, 
+    {
+      "type": "Feature",
+      "properties": {"Name": "Il Santo Bevitore", "Category": ["Bacaro"]},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3321582,
+          45.4433823
+        ]
+      }
+    }, 
+    {
+      "type": "Feature",
+      "properties": {"Name": "Cà D'Oro alla Vedova", "Category": ["Bacaro"]},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3345277,
+          45.4414073
+        ]
+      }
+    }, 
+    {
+      "type": "Feature",
+      "properties": {"Name": "Osteria dal Riccio Peoco", "Category": ["Bacaro"]},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3368089,
+          45.4402477
+        ]
+      }
+    }, 
+    {
+      "type": "Feature",
+      "properties": {"Name": "Bacarando in Corte dell'Orso", "Category": ["Bacaro"]},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3373823,
+          45.4379974
+        ]
+      }
+    }, 
+    {
+      "type": "Feature",
+      "properties": {"Name": "VizioVirtù Cioccolateria", "Category": ["Chocolate Shop"]},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3373823,
+          45.4379974
+        ]
+      }
+    }, 
+    {
+      "type": "Feature",
+      "properties": {"Name": "Osteria Al Squero", "Category": ["Bacaro"]},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3373823,
+          45.4379974
+        ]
+      }
     }
 
 
   ]
 }
+
